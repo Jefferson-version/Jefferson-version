@@ -5,11 +5,11 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jefferson-silva-3a3774221/)
 
  <img height="50%" height="50%" src="https://github-readme-stats.vercel.app/api?username=Jefferson-version&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
- <img  width="50%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-version&layout=compact&langs_count=7&theme=merko"/>
+ <img  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jefferson-version&layout=compact&langs_count=7&theme=merko"/>
  
  
 <div>
- <img align="center" alt="jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="jeff-CSS" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><img align="center" alt="jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ### 
