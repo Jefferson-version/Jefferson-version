@@ -16,6 +16,10 @@
 <a href = "mailto:jeffferson.dev@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
 
+ <h5 align="center">Para mais informações de uma olhada no meu portifólio :<br>https://portifolio-jeffersondev.netlify.app/</h5>
+
+###
+
  ##
  
  ### Main skills:
