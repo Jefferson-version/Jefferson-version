@@ -43,9 +43,13 @@
 
 ###
 
-### FlameWorks:
+### FlameWorks / Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
 </div>
 
 ###
