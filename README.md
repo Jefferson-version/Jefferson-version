@@ -64,6 +64,12 @@
 ###
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/jefferson-version/jefferson-version/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+##
+
+<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jefferson-version}/count.svg" /></p> 
 <br>
@@ -72,6 +78,5 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=32CD32&height=120&section=footer"/>
 
-<img src="https://raw.githubusercontent.com/jefferson-version/jefferson-version/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
