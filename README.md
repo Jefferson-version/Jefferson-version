@@ -62,7 +62,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="postgree logo"/>
   <img width="12" />
           
-
           
 </div>
 
