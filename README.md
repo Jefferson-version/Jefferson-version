@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A8FF3E&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Jefferson+Silva!;Junior+Full+Stack+Developer;Information+Systems+Graduate;Always+learning+and+building!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A8FF3E&size=35&center=true&vCenter=true&width=1000&lines=Hey,+I'm+Jefferson+Silva!;Junior+Full+Stack+Developer;Information+Systems+Graduate;Always+learning+and+building!)](https://git.io/typing-svg)
 
 <div align="center">
 
@@ -13,16 +13,16 @@ Graduated in Information Systems, passionate about building clean and functional
 
 ###
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jefferson-version&bg_color=0d1117&color=58A6FF&line=1E90FF&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jefferson-version&bg_color=09090B&color=A8FF3E&line=A8FF3E&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jefferson-version&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1E90FF&text_color=c9d1d9&bg_color=0d1117" alt="Jefferson Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jefferson-version&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=jefferson-version&show_icons=true&count_private=true&hide_border=true&title_color=A8FF3E&icon_color=A8FF3E&text_color=71717A&bg_color=09090B" alt="Jefferson Silva github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jefferson-version&layout=compact&hide_border=true&title_color=A8FF3E&text_color=71717A&bg_color=09090B" />
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jefferson-version&theme=dark&hide_border=true&ring=58A6FF&fire=1E90FF&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jefferson-version&theme=dark&hide_border=true&ring=A8FF3E&fire=A8FF3E&currStreakLabel=A8FF3E&sideLabels=71717A&dates=3F3F46&currStreakNum=F4F4F5&sideNums=F4F4F5&background=09090B&stroke=1E1E28)](https://git.io/streak-stats)
 
 </div>
 
@@ -107,4 +107,4 @@ Graduated in Information Systems, passionate about building clean and functional
   <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A8FF3E&height=120&section=footer"/>
