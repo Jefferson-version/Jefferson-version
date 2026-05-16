@@ -38,7 +38,7 @@ Graduated in Information Systems, passionate about building clean and functional
   <a href="mailto:jeffferson.dev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
-  <!--<a href="https://portifolio-jeffersondev.netlify.app/" target="_blank">-->
+  <a href="https://jsaportifolio2026.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-%230A0A0A?style=for-the-badge&logo=netlify&logoColor=white">
   </a>
 </div>
